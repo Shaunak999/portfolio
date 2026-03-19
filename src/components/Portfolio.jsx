@@ -9,7 +9,7 @@ function Portfolio() {
       projectLink: "https://airesu12-tux7.vercel.app/",
       description:
         "Developed a platform to filter resumes based on recruiter-defined job requirements, implemented matching logic to evaluate candidates against required skills, generated insights including skill matches and candidate suitability, and designed a workflow to streamline hiring efficiency.",
-      title: "Resume Analuzer",
+      title: "Resume Analyzer",
       technologies: ["Django REST API", "React", "HTML", "Python", "GitHub"],
       media: "/videos/airesume-demo.mp4.mp4",
     },
