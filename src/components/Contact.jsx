@@ -1,5 +1,6 @@
 function Contact() {
-  const resumeLink = "https://portfolio1-sepia-theta.vercel.app/";
+  const resumeLink =
+    "https://drive.google.com/file/d/1NGt1g2MmwyOPND_aJhKOOlHWuDnuEs__/view?usp=sharing";
   return (
     <section className="flex justify-center items-center">
       <ul className="text-4xl">
