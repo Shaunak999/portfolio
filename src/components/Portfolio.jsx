@@ -8,8 +8,8 @@ function Portfolio() {
       id: 0,
       projectLink: "https://airesu12-tux7.vercel.app/",
       description:
-        "Developing a web application that generates resumes using AI. Backend built using Django REST API and frontend built using React, with a focus on clean frontend-backend integration.",
-      title: "AI Resume Builder",
+        "Developed a platform to filter resumes based on recruiter-defined job requirements, implemented matching logic to evaluate candidates against required skills, generated insights including skill matches and candidate suitability, and designed a workflow to streamline hiring efficiency.",
+      title: "Resume Analuzer",
       technologies: ["Django REST API", "React", "HTML", "Python", "GitHub"],
       media: "/videos/airesume-demo.mp4.mp4",
     },
