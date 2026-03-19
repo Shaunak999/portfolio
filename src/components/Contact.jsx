@@ -1,10 +1,14 @@
 function Contact() {
-  const resumeLink = "https://github.com/Shaunak999";
+  const resumeLink = "https://portfolio1-sepia-theta.vercel.app/";
   return (
     <section className="flex justify-center items-center">
       <ul className="text-4xl">
         <li className="mb-2 cursor-pointer max-600:mb-6">
-          <a target="_blank" href="https://www.linkedin.com" rel="noreferrer">
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/shaunak-harmalkar-15954a211/"
+            rel="noreferrer"
+          >
             LinkedIn
           </a>
         </li>
